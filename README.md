@@ -7,11 +7,6 @@
   <p align="center">
     <a href="https://linkedin.com/in/sonu-kumar-65149b347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sonu919943@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://the-recipes-finder.netlify.app"><img src="https://img.shields.io/badge/Live%20Demo-Recipe%20Finder-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" /></a>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sonu919943-cell&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
 </div>
@@ -116,12 +111,11 @@
   <tr>
     <td>
       <strong>🍳 <a href="https://github.com/sonu919943-cell/recipe-finder-app">Recipe Finder Web App</a></strong><br/>
-      <sub>React.js | JavaScript | REST API | Netlify</sub>
+      <sub>React.js | JavaScript | REST API</sub>
     </td>
     <td>
       • Frontend web app fetching live recipes by ingredients using a public API.<br/>
-      • Features dark/light mode toggle, bookmarking favorites, and embedded YouTube cooking guides.<br/>
-      • 🌐 <strong><a href="https://the-recipes-finder.netlify.app">Live Demo on Netlify</a></strong>
+      • Features dark/light mode toggle, bookmarking favorites, and embedded YouTube cooking guides.
     </td>
   </tr>
 
@@ -145,18 +139,3 @@
 - 🌟 **95.25 Percentile** — *Naukri Campus Young Turks 2025* (Among 500,000+ student participants)
 - 🤝 **Hackathons & Ideathons** — Active participant in college-level hackathons and technical problem-solving events.
 - 🎓 **Academics:** 94% in Class XII (PCM) & 91% in Class X.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu919943-cell&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=00c7b7" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu919943-cell&layout=compact&theme=tokyonight&hide_border=true&title_color=61dafb&text_color=ffffff" width="45%" alt="Top Languages" />
-</div>
-
----
-
-<p align="center">
-  <em>⚡ Learning every day, writing cleaner code, and building real-world projects.</em>
-</p>
